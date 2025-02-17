@@ -46,14 +46,14 @@ https://dev.teststite.commerce.gov
 
 #### Code Repository
 
- git@github.com:bobschmitt-civicactions/project-documentation.git
+ git@github.com:Civicactions/project-documentation.git
 
 
 
-## Documentation Index
+## Example Documentation Table of Contents
 
-1. [Proposal and contract directory](https://drive.google.com/open?id=0B8h3s4uUHTrZdWJMWlRwTURtN2s)
-2. [Sandbox setup](/docs/sandbox.md)
+1. [Sandbox setup](/documentation/sandbox.md)
+2. [Governance] (documentation/governance)
 3. [Custom_form module documentation](/example_module/README.md)
 
 
